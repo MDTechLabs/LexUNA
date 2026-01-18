@@ -49,3 +49,8 @@ LexUNA/
 ├── scripts/
 │   └── generator.js             # Simple CLI to fill templates via terminal
 └── LICENSE                      # MIT Licensed
+
+
+````
+👨‍💻 Disclaimer
+LexUNA provides legal templates, not legal advice. Use of these templates does not create an attorney-client relationship. We strongly recommend having your final documents reviewed by a qualified professional in your jurisdiction.
